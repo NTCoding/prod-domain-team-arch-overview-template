@@ -6,6 +6,8 @@ You can find the Miro board here: https://miro.com/app/board/o9J_lva6wo8=/?invit
 
 To use this template: open the link above, copy all of the items, paste them into a Miro board of your own.
 
+![Miro Board Screenshot](https://user-images.githubusercontent.com/692094/137206250-6cfd3f5b-b533-4a9d-8ea9-1f6d16140178.png)
+
 ## Sections
 
 The template is composed of 4 sections:
